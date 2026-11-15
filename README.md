@@ -1,6 +1,6 @@
 # ivankristianto.github.io
 
-A one-page profile card for Ivan Kristianto, served by GitHub Pages at https://ivankristianto.github.io/.
+A one-page profile card for Ivan Kristianto, served by GitHub Pages at https://talks.ivankristianto.com/.
 
 The blog, articles and resume live at https://www.ivankristianto.com/. This page only points there and to my other profiles.
 
@@ -9,6 +9,7 @@ The blog, articles and resume live at https://www.ivankristianto.com/. This page
 - `index.html`: the whole page. HTML and inline CSS, no build step, no JavaScript.
 - `assets/ivan-portrait.webp`: the avatar.
 - `assets/social-card.png`: the Open Graph image used when the link is shared.
+- `CNAME`: the custom domain, `talks.ivankristianto.com`. GitHub Pages reads it; delete it and the site falls back to https://ivankristianto.github.io/.
 - `.nojekyll`: tells GitHub Pages to serve the files as they are, without running Jekyll.
 
 ## Design
